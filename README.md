@@ -1,4 +1,5 @@
-# PREDICTING-INCOME-OF-PEOPLE-IN-THE-USA-BY-ANALYZING-INCOME-DATASET-WITH-57-561-ROWS-AND-15-COLUMNS
+# PREDICTING-INCOME-OF-PEOPLE-IN-THE-USA
+
 This project involved building a Decision Tree Classifier to predict income level (>50K or <=50K) based on various demographic and employment-related features from the dataset.
 
 After loading and exploring the data, categorical features were encoded using Ordinal Encoding. The dataset was then split into training and testing sets. A Decision Tree Classifier was trained on the training data and evaluated on the test data.
